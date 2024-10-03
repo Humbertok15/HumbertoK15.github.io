@@ -1,0 +1,59 @@
+body {
+    background-color: #f0f0f0; 
+    font-family: Arial, sans-serif; 
+}
+
+nav {
+    background-color: #333; 
+    padding: 10px; 
+}
+
+nav ul {
+    list-style-type: none; 
+    padding: 0; 
+}
+
+nav ul li {
+    display: inline; 
+    margin-right: 20px; 
+}
+
+nav ul li a {
+    color: white; 
+    text-decoration: none; 
+}
+
+h1, h2, p {
+    margin: 10px 0; 
+}
+
+header {
+    background-color: lightblue; 
+    color: black; 
+    padding: 20px; 
+}
+h1 {
+    color: black; 
+}
+
+.introduction {
+    color: #2E86C1; 
+}
+
+.hobby {
+    color: #8E44AD; 
+}
+
+label {
+    color: black; 
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    background-color: white; 
+    border: 1px solid gray; 
+    padding: 10px; 
+    margin-bottom: 10px; 
+}
+
